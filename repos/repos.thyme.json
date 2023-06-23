@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "Thyme-KernelSU-Proton",
-      "repo": "https://github.com/PixelExperience-Devices/kernel_xiaomi_thyme",
-      "branch": "thirteen",
+      "repo": "https://codeberg.org/DogDayAndroid/android_kernel_xiaomi_thyme",
+      "branch": "lineage-20.0",
       "device": "thyme",
       "defconfig": "thyme_defconfig"
     },
