@@ -46,8 +46,8 @@
   {
     "kernelSource": {
       "name": "Thyme-Google",
-      "repo": "https://codeberg.org/DogDayAndroid/android_kernel_xiaomi_thyme",
-      "branch": "lineage-20.0",
+      "repo": "https://github.com/PixelExperience-Devices/kernel_xiaomi_thyme",
+      "branch": "thirteen",
       "device": "thyme",
       "defconfig": "thyme_defconfig"
     },
@@ -61,7 +61,7 @@
       },
       {
         "repo": "https://gitlab.com/ThankYouMario/android_prebuilts_clang-standalone/",
-        "branch": "17",
+        "branch": "11",
         "name": "clang",
         "binPath": ["bin"]
       }
