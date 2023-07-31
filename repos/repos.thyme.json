@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "Thyme-KernelSU-Proton",
-      "repo": "https://github.com/BGTMT/kernel_xiaomi_thyme",
-      "branch": "lineage-20.0",
+      "repo": "https://github.com/Rinko-Studio/android_kernel_xiaomi_thyme",
+      "branch": "thirteen",
       "device": "thyme",
       "defconfig": "thyme_defconfig"
     },
